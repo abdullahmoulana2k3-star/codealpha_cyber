@@ -1,4 +1,4 @@
-# codealpha_cyber
+# codealpha_network_sniffer.py
 Cybersecurity Intenship Projects
 Here we capture network packets using python language.it capture network traffic in real time,extracts key information from the packets and preparesthe data.
 
